@@ -164,7 +164,6 @@ print(me.motto())
 | 🔍 | **Key Insight: 3.8× Cost Driver** | Smoking identified as #1 insurance cost factor via ML feature importance analysis |
 | 🌐 | **Multi-Language AI Deployment** | Story discovery tested across Hindi, Tamil & English with Groq LLM re-ranking |
 | 🧠 | **NLP Recruitment Automation** | Resume screening pipeline using TF-IDF + cosine similarity applied to real hiring workflows |
-| 🎓 | **Pursuing M.Sc. IT** | Bharathiar University, Coimbatore — AI/ML specialisation, graduating 2026 |
 
 </div>
 
