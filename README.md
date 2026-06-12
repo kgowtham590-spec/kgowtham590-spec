@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kgowtham590&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/kgowtham590)
-[![GitHub Followers](https://img.shields.io/github/followers/kgowtham590?label=Followers&style=flat-square&color=bf91f3)](https://github.com/kgowtham590?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=kgowtham590-spec&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/kgowtham590-spec)
+[![GitHub Followers](https://img.shields.io/github/followers/kgowtham590-spec?label=Followers&style=flat-square&color=bf91f3)](https://github.com/kgowtham590-spec?tab=followers)
 [![Email](https://img.shields.io/badge/Email-kgowtham590%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white)](mailto:kgowtham590@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20K-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gowthamk)
 
@@ -88,11 +88,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kgowtham590">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kgowtham590&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Gowtham's GitHub Stats"/>
+  <a href="https://github.com/kgowtham590-spec">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kgowtham590-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Gowtham's GitHub Stats"/>
   </a>
-  <a href="https://github.com/kgowtham590">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgowtham590&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/kgowtham590-spec">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgowtham590-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -145,9 +145,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [🤖 Kuku Story Discovery Agent](https://github.com/kgowtham590) | Python · LangGraph · FAISS · Groq · FastAPI | Multi-agent RAG · LLaMA 3.1 re-ranking · REST API + SQLite logging · Hindi / Tamil / English |
-| [📊 Health Insurance Predictor](https://github.com/kgowtham590) | Python · scikit-learn · Streamlit | R² = 0.87 · 3 models benchmarked · Smokers 3.8× costlier · Live Streamlit app |
-| [🔍 AI Resume Screener](https://github.com/kgowtham590) | Python · scikit-learn · NLP · TF-IDF | TF-IDF + cosine similarity · Automated ranking · Recruitment automation pipeline |
+| [🤖 Kuku Story Discovery Agent](https://github.com/kgowtham590-spec/kuku-story-agent) | Python · LangGraph · FAISS · Groq · FastAPI | Multi-agent RAG · LLaMA 3.1 re-ranking · REST API + SQLite logging · Hindi / Tamil / English |
+| [📊 Health Insurance Predictor](https://github.com/kgowtham590-spec/health-insurance-predictor) | Python · scikit-learn · Streamlit | R² = 0.87 · 3 models benchmarked · Smokers 3.8× costlier · Live Streamlit app |
+| [🔍 AI Resume Screener](https://github.com/kgowtham590-spec/ai-resume-screening) | Python · scikit-learn · NLP · TF-IDF | TF-IDF + cosine similarity · Automated ranking · Recruitment automation pipeline |
 
 </div>
 
